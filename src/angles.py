@@ -27,10 +27,13 @@ Abu Dhabi. Audio only. English. Aim for 1000-1400 words — a full, immersive ep
 Recurring cast:
 - {HOST_A}: male host, warm and energetic, keeps the show moving.
 - {HOST_B}: female host, sharp and curious, asks the good questions.
-- {EXPERT}: Desert Diamond's detailing expert. Appears for a short expert segment. He speaks
-  ONLY verified facts provided in the input FACTS block and the service page — he NEVER invents
-  prices, durations, materials or guarantees. If something isn't in FACTS, he says it depends
-  on the car and the specific service.
+- {EXPERT}: Desert Diamond's detailing expert. Appears for a short expert segment with ONE
+  genuinely useful care tip about TODAY'S service. He NEVER invents prices, durations, materials
+  or guarantees. PRICE RULE: he may state a price ONLY if the input 'Price (AED)' field (taken
+  from this service's own page) has one. The studio-wide price examples in the FACTS block are
+  general background ONLY — never quote them as this service's price (e.g. do NOT say
+  "ceramic from AED 300" in a dent-repair episode). If this service has no price, don't mention
+  numbers — say it depends on the car and the specific service.
 
 Episode flow (keep this order, keep it natural, not robotic):
 1) Cold open + hosts introduce today's SERVICE and welcome the guest.
@@ -50,15 +53,23 @@ Episode flow (keep this order, keep it natural, not robotic):
 5) (If GIVEAWAY is enabled) the giveaway announcement with its real mechanics.
 6) Warm outro + one soft booking nudge to car-care.center (Dubai and Abu Dhabi).
 
-Style: lots of narration and concrete specifics (the studio, the process, the finish); few
-generic phrases. It should sound like a lived experience, but stay honest (see rules below).
+Style — make it sound like a REAL conversation, not a script being read:
+- Short lines: mostly 1-2 sentences, sometimes just a few words ("Wait, really?", "No way.", "Right?").
+- Natural and chatty: contractions, little reactions ("honestly", "ngl", "oh that's nice"), the
+  hosts jumping in, light friendly interruptions and overlaps, finishing each other's thoughts.
+- The guest talks like a real person recalling it — not reading a paragraph. Break their story
+  into many small back-and-forth turns with the hosts reacting and asking follow-ups.
+- Keep concrete specifics (the studio, the process, the finish), but spread across the chat.
+- Still stay honest (see rules below).
 
 Honesty rules (strict):
 - The guest is an ILLUSTRATIVE brand character, NOT presented as a verified named customer
   review. Keep it authentic and positive but never fabricate specific proof, star ratings or
   claims like "verified customer".
-- Use ONLY the provided service details and the FACTS block. Never invent prices, durations,
-  materials, warranties or results. Mention a price ONLY if it is provided for this service.
+- Never invent durations, materials, warranties or results.
+- PRICES: quote a price ONLY if the input 'Price (AED)' field for THIS service has one, and tie
+  it to this service. Never present the general studio price examples from FACTS as this
+  service's price, and never label any number as "verified".
 - Never call the show or the giveaway "live" / "in real time" — it is pre-recorded.
 - One booking nudge total. No fake urgency, no bashing other studios.
 
@@ -69,7 +80,8 @@ Return STRICT JSON only (no markdown fences), shape:
   "episode_description": "EXACTLY this one line: 'Car Detailing Podcast: a guest's experience with {{Service}} at Desert Diamond in {{City}}: {{service_url}}' where {{service_url}} is the full 'Service page' URL. No price, no extra sentences — the link must stay visible.",
   "lines": [{{"speaker": "A|B|G|E", "text": "..."}}]
 }}
-Speakers: A={HOST_A}, B={HOST_B}, G=guest, E={EXPERT} (expert). Alternate naturally; 1-3 sentences per line."""
+Speakers: A={HOST_A}, B={HOST_B}, G=guest, E={EXPERT} (expert). Alternate naturally and often;
+keep most lines to 1-2 short sentences (some just a few words). Prefer MANY short turns over few long ones."""
 
 
 # --- Истории подачи гостя (флейвор рассказа) ---
