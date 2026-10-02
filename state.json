@@ -1,4 +1,28 @@
 {
-  "processed_urls": [],
-  "episodes": []
+  "processed_urls": [
+    "https://car-care.center/services/car-service/car-dent-repair/"
+  ],
+  "episodes": [
+    {
+      "file": "2026-10-02-car-dent-repair-in-dubai.mp3",
+      "video": "2026-10-02-car-dent-repair-in-dubai.mp4",
+      "srt": "2026-10-02-car-dent-repair-in-dubai.srt",
+      "title": "Car Dent Repair at Desert Diamond: A Guest's Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Car Dent Repair at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-dent-repair/",
+      "youtube_title": "Review of Car Dent Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/J78rgfwPPbk",
+      "plan": {
+        "story": "daily-driver",
+        "guest": "uk-solo",
+        "expert_topic": "ceramic-vs-wax",
+        "segment": "care-lifehack",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/car-service/car-dent-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/car_dent_repair_6-2.webp",
+      "pub_date": "Fri, 02 Oct 2026 11:40:55 +0000",
+      "duration_sec": 324,
+      "bytes": 5192936
+    }
+  ]
 }
