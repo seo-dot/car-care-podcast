@@ -1,6 +1,7 @@
 {
   "processed_urls": [
-    "https://car-care.center/services/car-service/car-dent-repair/"
+    "https://car-care.center/services/car-service/car-dent-repair/",
+    "https://car-care.center/services/detailing/car-carpet-cleaning/"
   ],
   "episodes": [
     {
@@ -23,6 +24,27 @@
       "pub_date": "Fri, 02 Oct 2026 11:40:55 +0000",
       "duration_sec": 324,
       "bytes": 5192936
+    },
+    {
+      "file": "2026-10-03-car-carpet-cleaning-in-dubai.mp3",
+      "video": "2026-10-03-car-carpet-cleaning-in-dubai.mp4",
+      "srt": "2026-10-03-car-carpet-cleaning-in-dubai.srt",
+      "title": "Fresh Carpets: Car Carpet Cleaning at Desert Diamond",
+      "description": "Car Detailing Podcast: a guest's experience with Car Carpet Cleaning at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-carpet-cleaning/",
+      "youtube_title": "Review of Car Carpet Cleaning at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/YihVfieMTGQ",
+      "plan": {
+        "story": "new-car",
+        "guest": "german-couple",
+        "expert_topic": "ppf",
+        "segment": "before-after",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/car-carpet-cleaning/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/car_carpet_cleaning_4-2.webp",
+      "pub_date": "Sat, 03 Oct 2026 14:30:05 +0000",
+      "duration_sec": 231,
+      "bytes": 3698792
     }
   ]
 }

@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:30:05 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Fresh Carpets: Car Carpet Cleaning at Desert Diamond</title>
+      <link>https://car-care.center/services/detailing/car-carpet-cleaning/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Carpet Cleaning at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-carpet-cleaning/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-10-03-car-carpet-cleaning-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-10-03-car-carpet-cleaning-in-dubai.mp3" length="3698792" type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 14:30:05 +0000</pubDate>
+      <itunes:duration>03:51</itunes:duration>
+    </item>
     <item>
       <title>Car Dent Repair at Desert Diamond: A Guest's Experience</title>
       <link>https://car-care.center/services/car-service/car-dent-repair/</link>
