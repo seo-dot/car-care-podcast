@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 14:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:03:54 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Repair Cigarette Burn in Car Interior – Guest Story</title>
+      <link>https://car-care.center/services/detailing/repair-cigarette-burn/</link>
+      <description>Car Detailing Podcast: a guest's experience with Repair Cigarette Burn in Car Interior at Desert Diamond in Dubai: https://car-care.center/services/detailing/repair-cigarette-burn/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-10-04-repair-cigarette-burn-in-car-interior-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-10-04-repair-cigarette-burn-in-car-interior-dubai.mp3" length="4279016" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 15:03:54 +0000</pubDate>
+      <itunes:duration>04:27</itunes:duration>
+    </item>
     <item>
       <title>Fresh Carpets: Car Carpet Cleaning at Desert Diamond</title>
       <link>https://car-care.center/services/detailing/car-carpet-cleaning/</link>

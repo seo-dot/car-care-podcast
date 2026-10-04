@@ -1,7 +1,8 @@
 {
   "processed_urls": [
     "https://car-care.center/services/car-service/car-dent-repair/",
-    "https://car-care.center/services/detailing/car-carpet-cleaning/"
+    "https://car-care.center/services/detailing/car-carpet-cleaning/",
+    "https://car-care.center/services/detailing/repair-cigarette-burn/"
   ],
   "episodes": [
     {
@@ -45,6 +46,27 @@
       "pub_date": "Sat, 03 Oct 2026 14:30:05 +0000",
       "duration_sec": 231,
       "bytes": 3698792
+    },
+    {
+      "file": "2026-10-04-repair-cigarette-burn-in-car-interior-dubai.mp3",
+      "video": "2026-10-04-repair-cigarette-burn-in-car-interior-dubai.mp4",
+      "srt": "2026-10-04-repair-cigarette-burn-in-car-interior-dubai.srt",
+      "title": "Repair Cigarette Burn in Car Interior – Guest Story",
+      "description": "Car Detailing Podcast: a guest's experience with Repair Cigarette Burn in Car Interior at Desert Diamond in Dubai: https://car-care.center/services/detailing/repair-cigarette-burn/",
+      "youtube_title": "Review of Repair Cigarette Burn in Car Interior at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/hvXYbq5CJwE",
+      "plan": {
+        "story": "before-sale",
+        "guest": "indian-pro",
+        "expert_topic": "wash-frequency",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/repair-cigarette-burn/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/repair_cigarette_burn_3-2.webp",
+      "pub_date": "Sun, 04 Oct 2026 15:03:54 +0000",
+      "duration_sec": 267,
+      "bytes": 4279016
     }
   ]
 }
