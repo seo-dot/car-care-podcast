@@ -2,7 +2,8 @@
   "processed_urls": [
     "https://car-care.center/services/car-service/car-dent-repair/",
     "https://car-care.center/services/detailing/car-carpet-cleaning/",
-    "https://car-care.center/services/detailing/repair-cigarette-burn/"
+    "https://car-care.center/services/detailing/repair-cigarette-burn/",
+    "https://car-care.center/services/car-service/car-clutch-replacement/"
   ],
   "episodes": [
     {
@@ -67,6 +68,27 @@
       "pub_date": "Sun, 04 Oct 2026 15:03:54 +0000",
       "duration_sec": 267,
       "bytes": 4279016
+    },
+    {
+      "file": "2026-10-05-car-clutch-replacement-in-dubai.mp3",
+      "video": "2026-10-05-car-clutch-replacement-in-dubai.mp4",
+      "srt": "2026-10-05-car-clutch-replacement-in-dubai.srt",
+      "title": "Car Clutch Replacement Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Car Clutch Replacement at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-clutch-replacement/",
+      "youtube_title": "Review of Car Clutch Replacement at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/3Qya9260Me0",
+      "plan": {
+        "story": "special-occasion",
+        "guest": "saudi-local",
+        "expert_topic": "interior-care",
+        "segment": "service-duel",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/car-service/car-clutch-replacement/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Clutch_Replacement_5-2.webp",
+      "pub_date": "Mon, 05 Oct 2026 18:59:14 +0000",
+      "duration_sec": 374,
+      "bytes": 5988584
     }
   ]
 }
