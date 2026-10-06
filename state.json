@@ -4,7 +4,8 @@
     "https://car-care.center/services/detailing/car-carpet-cleaning/",
     "https://car-care.center/services/detailing/repair-cigarette-burn/",
     "https://car-care.center/services/car-service/car-clutch-replacement/",
-    "https://car-care.center/services/car-service/gearbox-oil-change/"
+    "https://car-care.center/services/car-service/gearbox-oil-change/",
+    "https://car-care.center/services/car-service/car-cooling-system-repair/"
   ],
   "episodes": [
     {
@@ -111,6 +112,27 @@
       "pub_date": "Tue, 06 Oct 2026 16:20:04 +0000",
       "duration_sec": 186,
       "bytes": 2992616
+    },
+    {
+      "file": "2026-10-06-car-cooling-system-repair-in-dubai.mp3",
+      "video": "2026-10-06-car-cooling-system-repair-in-dubai.mp4",
+      "srt": "2026-10-06-car-cooling-system-repair-in-dubai.srt",
+      "title": "Car Cooling System Repair Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Car Cooling System Repair at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-cooling-system-repair/",
+      "youtube_title": "Review of Car Cooling System Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/iMUofddLF60",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "french-couple",
+        "expert_topic": "swirl-marks",
+        "segment": "before-after",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-cooling-system-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Cooling_System_Repair_5-2.webp",
+      "pub_date": "Tue, 06 Oct 2026 21:27:31 +0000",
+      "duration_sec": 172,
+      "bytes": 2756840
     }
   ]
 }
