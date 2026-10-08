@@ -6,7 +6,8 @@
     "https://car-care.center/services/car-service/car-clutch-replacement/",
     "https://car-care.center/services/car-service/gearbox-oil-change/",
     "https://car-care.center/services/car-service/car-cooling-system-repair/",
-    "https://car-care.center/services/car-service/car-head-gasket-repair/"
+    "https://car-care.center/services/car-service/car-head-gasket-repair/",
+    "https://car-care.center/services/car-service/car-transmission-repair/"
   ],
   "episodes": [
     {
@@ -155,6 +156,27 @@
       "pub_date": "Wed, 07 Oct 2026 19:34:29 +0000",
       "duration_sec": 249,
       "bytes": 3996776
+    },
+    {
+      "file": "2026-10-08-car-transmission-repair-in-dubai.mp3",
+      "video": "2026-10-08-car-transmission-repair-in-dubai.mp4",
+      "srt": "2026-10-08-car-transmission-repair-in-dubai.srt",
+      "title": "Car Transmission Repair – Desert Diamond Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Car Transmission Repair at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-transmission-repair/",
+      "youtube_title": "Review of Car Transmission Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/ekweoM8inhc",
+      "plan": {
+        "story": "daily-driver",
+        "guest": "nigerian-solo",
+        "expert_topic": "sun-heat",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-transmission-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car_transmission_repair_4-2.webp",
+      "pub_date": "Thu, 08 Oct 2026 17:03:33 +0000",
+      "duration_sec": 335,
+      "bytes": 5371880
     }
   ]
 }
