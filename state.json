@@ -9,7 +9,8 @@
     "https://car-care.center/services/car-service/car-head-gasket-repair/",
     "https://car-care.center/services/car-service/car-transmission-repair/",
     "https://car-care.center/services/car-service/car-software-change/",
-    "https://car-care.center/services/car-service/car-thermostat-change/"
+    "https://car-care.center/services/car-service/car-thermostat-change/",
+    "https://car-care.center/services/car-service/car-brake-repair/"
   ],
   "episodes": [
     {
@@ -221,6 +222,27 @@
       "pub_date": "Sat, 10 Oct 2026 15:36:38 +0000",
       "duration_sec": 158,
       "bytes": 2536808
+    },
+    {
+      "file": "2026-10-11-car-brake-repair-service-in-dubai.mp3",
+      "video": "2026-10-11-car-brake-repair-service-in-dubai.mp4",
+      "srt": "2026-10-11-car-brake-repair-service-in-dubai.srt",
+      "title": "Car Brake Repair Service – A Guest’s Story",
+      "description": "Car Detailing Podcast: a guest's experience with Car Brake Repair Service at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-brake-repair/",
+      "youtube_title": "Review of Car Brake Repair Service at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "special-occasion",
+        "guest": "uk-solo",
+        "expert_topic": "wash-frequency",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-brake-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car-brake-repair-1-2.webp",
+      "pub_date": "Sun, 11 Oct 2026 16:01:52 +0000",
+      "duration_sec": 291,
+      "bytes": 4658024
     }
   ]
 }
