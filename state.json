@@ -11,7 +11,8 @@
     "https://car-care.center/services/car-service/car-software-change/",
     "https://car-care.center/services/car-service/car-thermostat-change/",
     "https://car-care.center/services/car-service/car-brake-repair/",
-    "https://car-care.center/services/car-service/car-gearbox-repair/"
+    "https://car-care.center/services/car-service/car-gearbox-repair/",
+    "https://car-care.center/services/car-service/car-windshield-replacement/"
   ],
   "episodes": [
     {
@@ -265,6 +266,27 @@
       "pub_date": "Mon, 12 Oct 2026 19:24:54 +0000",
       "duration_sec": 317,
       "bytes": 5086952
+    },
+    {
+      "file": "2026-10-13-car-windshield-replacement-in-dubai.mp3",
+      "video": "2026-10-13-car-windshield-replacement-in-dubai.mp4",
+      "srt": "2026-10-13-car-windshield-replacement-in-dubai.srt",
+      "title": "Car Windshield Replacement Experience at Desert Diamond",
+      "description": "Car Detailing Podcast: a guest's experience with Car Windshield Replacement at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-windshield-replacement/",
+      "youtube_title": "Review of Car Windshield Replacement at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "indian-pro",
+        "expert_topic": "tint-benefits",
+        "segment": "care-lifehack",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/car-service/car-windshield-replacement/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car-windshield-replacement-1-2.webp",
+      "pub_date": "Tue, 13 Oct 2026 17:12:22 +0000",
+      "duration_sec": 262,
+      "bytes": 4195688
     }
   ]
 }
