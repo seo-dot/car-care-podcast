@@ -12,7 +12,8 @@
     "https://car-care.center/services/car-service/car-thermostat-change/",
     "https://car-care.center/services/car-service/car-brake-repair/",
     "https://car-care.center/services/car-service/car-gearbox-repair/",
-    "https://car-care.center/services/car-service/car-windshield-replacement/"
+    "https://car-care.center/services/car-service/car-windshield-replacement/",
+    "https://car-care.center/services/car-service/timing-belt-replacement/"
   ],
   "episodes": [
     {
@@ -287,6 +288,27 @@
       "pub_date": "Tue, 13 Oct 2026 17:12:22 +0000",
       "duration_sec": 262,
       "bytes": 4195688
+    },
+    {
+      "file": "2026-10-14-car-timing-belt-replacement-in-dubai.mp3",
+      "video": "2026-10-14-car-timing-belt-replacement-in-dubai.mp4",
+      "srt": "2026-10-14-car-timing-belt-replacement-in-dubai.srt",
+      "title": "Car Timing Belt Replacement — Car enthusiast",
+      "description": "Car Detailing Podcast: a guest's experience with Car Timing Belt Replacement at Desert Diamond in Dubai: https://car-care.center/services/car-service/timing-belt-replacement/",
+      "youtube_title": "Review of Car Timing Belt Replacement at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "enthusiast",
+        "guest": "saudi-local",
+        "expert_topic": "swirl-marks",
+        "segment": "before-after",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/timing-belt-replacement/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Timing_Belt_Service_1-2.webp",
+      "pub_date": "Wed, 14 Oct 2026 14:42:00 +0000",
+      "duration_sec": 75,
+      "bytes": 1210856
     }
   ]
 }
