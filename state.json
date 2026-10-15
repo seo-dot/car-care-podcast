@@ -13,7 +13,8 @@
     "https://car-care.center/services/car-service/car-brake-repair/",
     "https://car-care.center/services/car-service/car-gearbox-repair/",
     "https://car-care.center/services/car-service/car-windshield-replacement/",
-    "https://car-care.center/services/car-service/timing-belt-replacement/"
+    "https://car-care.center/services/car-service/timing-belt-replacement/",
+    "https://car-care.center/services/car-service/car-battery-service/"
   ],
   "episodes": [
     {
@@ -309,6 +310,27 @@
       "pub_date": "Wed, 14 Oct 2026 14:42:00 +0000",
       "duration_sec": 75,
       "bytes": 1210856
+    },
+    {
+      "file": "2026-10-15-car-battery-replacement-in-dubai.mp3",
+      "video": "2026-10-15-car-battery-replacement-in-dubai.mp4",
+      "srt": "2026-10-15-car-battery-replacement-in-dubai.srt",
+      "title": "Car Battery Replacement — Daily driver refresh",
+      "description": "Car Detailing Podcast: a guest's experience with Car Battery Replacement at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-battery-service/",
+      "youtube_title": "Review of Car Battery Replacement at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "daily-driver",
+        "guest": "american-creator",
+        "expert_topic": "maintain-coating",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-battery-service/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Battery_Replacement_1-2.webp",
+      "pub_date": "Thu, 15 Oct 2026 14:26:09 +0000",
+      "duration_sec": 74,
+      "bytes": 1193576
     }
   ]
 }
