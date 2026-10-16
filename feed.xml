@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:16:28 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Certified Car Electrical Repair — New car protection</title>
+      <link>https://car-care.center/services/car-service/car-electrical-repair/</link>
+      <description>Car Detailing Podcast: a guest's experience with Certified Car Electrical Repair at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-electrical-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-10-16-certified-car-electrical-repair-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-10-16-certified-car-electrical-repair-in-dubai.mp3" length="1315304" type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 14:16:28 +0000</pubDate>
+      <itunes:duration>01:22</itunes:duration>
+    </item>
     <item>
       <title>Car Battery Replacement — Daily driver refresh</title>
       <link>https://car-care.center/services/car-service/car-battery-service/</link>
