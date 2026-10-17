@@ -15,7 +15,8 @@
     "https://car-care.center/services/car-service/car-windshield-replacement/",
     "https://car-care.center/services/car-service/timing-belt-replacement/",
     "https://car-care.center/services/car-service/car-battery-service/",
-    "https://car-care.center/services/car-service/car-electrical-repair/"
+    "https://car-care.center/services/car-service/car-electrical-repair/",
+    "https://car-care.center/services/car-service/car-scanning-diagnostics/"
   ],
   "episodes": [
     {
@@ -353,6 +354,27 @@
       "pub_date": "Fri, 16 Oct 2026 14:16:28 +0000",
       "duration_sec": 82,
       "bytes": 1315304
+    },
+    {
+      "file": "2026-10-17-car-diagnostics-service-in-dubai.mp3",
+      "video": "2026-10-17-car-diagnostics-service-in-dubai.mp4",
+      "srt": "2026-10-17-car-diagnostics-service-in-dubai.srt",
+      "title": "Car Diagnostics Service — Before selling",
+      "description": "Car Detailing Podcast: a guest's experience with Car Diagnostics Service at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-scanning-diagnostics/",
+      "youtube_title": "Review of Car Diagnostics Service at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "before-sale",
+        "guest": "russian-expat",
+        "expert_topic": "ceramic-vs-wax",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-scanning-diagnostics/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Diagnostics_Service_2-3.webp",
+      "pub_date": "Sat, 17 Oct 2026 13:13:50 +0000",
+      "duration_sec": 76,
+      "bytes": 1220072
     }
   ]
 }
