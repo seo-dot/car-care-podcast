@@ -16,7 +16,8 @@
     "https://car-care.center/services/car-service/timing-belt-replacement/",
     "https://car-care.center/services/car-service/car-battery-service/",
     "https://car-care.center/services/car-service/car-electrical-repair/",
-    "https://car-care.center/services/car-service/car-scanning-diagnostics/"
+    "https://car-care.center/services/car-service/car-scanning-diagnostics/",
+    "https://car-care.center/services/car-service/car-engine-repair/"
   ],
   "episodes": [
     {
@@ -375,6 +376,27 @@
       "pub_date": "Sat, 17 Oct 2026 13:13:50 +0000",
       "duration_sec": 76,
       "bytes": 1220072
+    },
+    {
+      "file": "2026-10-18-car-engine-repair-in-dubai.mp3",
+      "video": "2026-10-18-car-engine-repair-in-dubai.mp4",
+      "srt": "2026-10-18-car-engine-repair-in-dubai.srt",
+      "title": "Car Engine Repair — Special occasion",
+      "description": "Car Detailing Podcast: a guest's experience with Car Engine Repair at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-engine-repair/",
+      "youtube_title": "Review of Car Engine Repair at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "special-occasion",
+        "guest": "nigerian-solo",
+        "expert_topic": "ppf",
+        "segment": "before-after",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-engine-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Engine_Head_Gasket_Repair_3-3.webp",
+      "pub_date": "Sun, 18 Oct 2026 13:34:49 +0000",
+      "duration_sec": 73,
+      "bytes": 1182056
     }
   ]
 }
