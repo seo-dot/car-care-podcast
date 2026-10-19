@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 13:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:39:34 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Car Computer Diagnostic — UAE heat &amp; sand</title>
+      <link>https://car-care.center/services/car-service/car-computer-diagnostic/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Computer Diagnostic at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-computer-diagnostic/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-10-19-car-computer-diagnostic-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-10-19-car-computer-diagnostic-in-dubai.mp3" length="1295720" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Oct 2026 16:39:34 +0000</pubDate>
+      <itunes:duration>01:20</itunes:duration>
+    </item>
     <item>
       <title>Car Engine Repair — Special occasion</title>
       <link>https://car-care.center/services/car-service/car-engine-repair/</link>
