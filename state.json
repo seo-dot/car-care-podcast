@@ -18,7 +18,8 @@
     "https://car-care.center/services/car-service/car-electrical-repair/",
     "https://car-care.center/services/car-service/car-scanning-diagnostics/",
     "https://car-care.center/services/car-service/car-engine-repair/",
-    "https://car-care.center/services/car-service/car-computer-diagnostic/"
+    "https://car-care.center/services/car-service/car-computer-diagnostic/",
+    "https://car-care.center/services/car-service/car-mechanic/"
   ],
   "episodes": [
     {
@@ -419,6 +420,27 @@
       "pub_date": "Mon, 19 Oct 2026 16:39:34 +0000",
       "duration_sec": 80,
       "bytes": 1295720
+    },
+    {
+      "file": "2026-10-20-car-mechanic-service-in-dubai.mp3",
+      "video": "2026-10-20-car-mechanic-service-in-dubai.mp4",
+      "srt": "2026-10-20-car-mechanic-service-in-dubai.srt",
+      "title": "Car Mechanic Service — Fixing wear",
+      "description": "Car Detailing Podcast: a guest's experience with Car Mechanic Service at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-mechanic/",
+      "youtube_title": "Review of Car Mechanic Service at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "emirati-local",
+        "expert_topic": "interior-care",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-mechanic/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Computer_Diagnostic_3-3.webp",
+      "pub_date": "Tue, 20 Oct 2026 14:29:59 +0000",
+      "duration_sec": 70,
+      "bytes": 1128680
     }
   ]
 }
