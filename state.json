@@ -19,7 +19,8 @@
     "https://car-care.center/services/car-service/car-scanning-diagnostics/",
     "https://car-care.center/services/car-service/car-engine-repair/",
     "https://car-care.center/services/car-service/car-computer-diagnostic/",
-    "https://car-care.center/services/car-service/car-mechanic/"
+    "https://car-care.center/services/car-service/car-mechanic/",
+    "https://car-care.center/services/car-service/car-engine-tuning/"
   ],
   "episodes": [
     {
@@ -441,6 +442,27 @@
       "pub_date": "Tue, 20 Oct 2026 14:29:59 +0000",
       "duration_sec": 70,
       "bytes": 1128680
+    },
+    {
+      "file": "2026-10-21-car-engine-tuning-in-dubai.mp3",
+      "video": "2026-10-21-car-engine-tuning-in-dubai.mp4",
+      "srt": "2026-10-21-car-engine-tuning-in-dubai.srt",
+      "title": "Car Engine Tuning — Car enthusiast",
+      "description": "Car Detailing Podcast: a guest's experience with Car Engine Tuning at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-engine-tuning/",
+      "youtube_title": "Review of Car Engine Tuning at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "enthusiast",
+        "guest": "uk-solo",
+        "expert_topic": "tint-benefits",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-engine-tuning/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Diagnostics_Service_1-3.webp",
+      "pub_date": "Wed, 21 Oct 2026 14:41:31 +0000",
+      "duration_sec": 73,
+      "bytes": 1184360
     }
   ]
 }
