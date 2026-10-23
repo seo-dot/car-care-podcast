@@ -21,7 +21,8 @@
     "https://car-care.center/services/car-service/car-computer-diagnostic/",
     "https://car-care.center/services/car-service/car-mechanic/",
     "https://car-care.center/services/car-service/car-engine-tuning/",
-    "https://car-care.center/services/tire-fitting/rim-wheel-repair-service/"
+    "https://car-care.center/services/tire-fitting/rim-wheel-repair-service/",
+    "https://car-care.center/services/detailing/car-painting-service/"
   ],
   "episodes": [
     {
@@ -485,6 +486,27 @@
       "pub_date": "Thu, 22 Oct 2026 15:24:20 +0000",
       "duration_sec": 79,
       "bytes": 1266920
+    },
+    {
+      "file": "2026-10-23-car-painting-service-in-dubai.mp3",
+      "video": "2026-10-23-car-painting-service-in-dubai.mp4",
+      "srt": "2026-10-23-car-painting-service-in-dubai.srt",
+      "title": "Car Painting Service — New car protection",
+      "description": "Car Detailing Podcast: a guest's experience with Car Painting Service at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-painting-service/",
+      "youtube_title": "Review of Car Painting Service at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "new-car",
+        "guest": "indian-pro",
+        "expert_topic": "maintain-coating",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/car-painting-service/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car-painting-service-1-2.webp",
+      "pub_date": "Fri, 23 Oct 2026 14:27:59 +0000",
+      "duration_sec": 72,
+      "bytes": 1169000
     }
   ]
 }
