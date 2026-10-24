@@ -22,7 +22,8 @@
     "https://car-care.center/services/car-service/car-mechanic/",
     "https://car-care.center/services/car-service/car-engine-tuning/",
     "https://car-care.center/services/tire-fitting/rim-wheel-repair-service/",
-    "https://car-care.center/services/detailing/car-painting-service/"
+    "https://car-care.center/services/detailing/car-painting-service/",
+    "https://car-care.center/services/detailing/brake-caliper-painting/"
   ],
   "episodes": [
     {
@@ -507,6 +508,27 @@
       "pub_date": "Fri, 23 Oct 2026 14:27:59 +0000",
       "duration_sec": 72,
       "bytes": 1169000
+    },
+    {
+      "file": "2026-10-24-brake-caliper-painting-in-dubai.mp3",
+      "video": "2026-10-24-brake-caliper-painting-in-dubai.mp4",
+      "srt": "2026-10-24-brake-caliper-painting-in-dubai.srt",
+      "title": "Brake caliper painting — Before selling",
+      "description": "Car Detailing Podcast: a guest's experience with Brake caliper painting at Desert Diamond in Dubai: https://car-care.center/services/detailing/brake-caliper-painting/",
+      "youtube_title": "Review of Brake caliper painting at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "before-sale",
+        "guest": "saudi-local",
+        "expert_topic": "sun-heat",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/brake-caliper-painting/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Brake_caliper_painting_5-2.webp",
+      "pub_date": "Sat, 24 Oct 2026 13:36:30 +0000",
+      "duration_sec": 74,
+      "bytes": 1199720
     }
   ]
 }
