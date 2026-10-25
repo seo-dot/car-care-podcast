@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:57:13 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Wheel Alignment — Special occasion</title>
+      <link>https://car-care.center/services/tire-fitting/wheel-alignment/</link>
+      <description>Car Detailing Podcast: a guest's experience with Wheel Alignment at Desert Diamond in Dubai: https://car-care.center/services/tire-fitting/wheel-alignment/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-10-25-wheel-alignment-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-10-25-wheel-alignment-in-dubai.mp3" length="1277288" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Oct 2026 13:57:13 +0000</pubDate>
+      <itunes:duration>01:19</itunes:duration>
+    </item>
     <item>
       <title>Brake caliper painting — Before selling</title>
       <link>https://car-care.center/services/detailing/brake-caliper-painting/</link>

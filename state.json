@@ -23,7 +23,8 @@
     "https://car-care.center/services/car-service/car-engine-tuning/",
     "https://car-care.center/services/tire-fitting/rim-wheel-repair-service/",
     "https://car-care.center/services/detailing/car-painting-service/",
-    "https://car-care.center/services/detailing/brake-caliper-painting/"
+    "https://car-care.center/services/detailing/brake-caliper-painting/",
+    "https://car-care.center/services/tire-fitting/wheel-alignment/"
   ],
   "episodes": [
     {
@@ -529,6 +530,27 @@
       "pub_date": "Sat, 24 Oct 2026 13:36:30 +0000",
       "duration_sec": 74,
       "bytes": 1199720
+    },
+    {
+      "file": "2026-10-25-wheel-alignment-in-dubai.mp3",
+      "video": "2026-10-25-wheel-alignment-in-dubai.mp4",
+      "srt": "2026-10-25-wheel-alignment-in-dubai.srt",
+      "title": "Wheel Alignment — Special occasion",
+      "description": "Car Detailing Podcast: a guest's experience with Wheel Alignment at Desert Diamond in Dubai: https://car-care.center/services/tire-fitting/wheel-alignment/",
+      "youtube_title": "Review of Wheel Alignment at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "special-occasion",
+        "guest": "american-creator",
+        "expert_topic": "ceramic-vs-wax",
+        "segment": "care-lifehack",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/tire-fitting/wheel-alignment/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/wheel-alignment-1-2.webp",
+      "pub_date": "Sun, 25 Oct 2026 13:57:13 +0000",
+      "duration_sec": 79,
+      "bytes": 1277288
     }
   ]
 }
