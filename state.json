@@ -24,7 +24,8 @@
     "https://car-care.center/services/tire-fitting/rim-wheel-repair-service/",
     "https://car-care.center/services/detailing/car-painting-service/",
     "https://car-care.center/services/detailing/brake-caliper-painting/",
-    "https://car-care.center/services/tire-fitting/wheel-alignment/"
+    "https://car-care.center/services/tire-fitting/wheel-alignment/",
+    "https://car-care.center/services/detailing/rust-proofing/"
   ],
   "episodes": [
     {
@@ -551,6 +552,27 @@
       "pub_date": "Sun, 25 Oct 2026 13:57:13 +0000",
       "duration_sec": 79,
       "bytes": 1277288
+    },
+    {
+      "file": "2026-10-26-car-rust-proofing-in-dubai.mp3",
+      "video": "2026-10-26-car-rust-proofing-in-dubai.mp4",
+      "srt": "2026-10-26-car-rust-proofing-in-dubai.srt",
+      "title": "Car Rust Proofing — UAE heat & sand",
+      "description": "Car Detailing Podcast: a guest's experience with Car Rust Proofing at Desert Diamond in Dubai: https://car-care.center/services/detailing/rust-proofing/",
+      "youtube_title": "Review of Car Rust Proofing at Desert Diamond Dubai",
+      "youtube_url": "",
+      "plan": {
+        "story": "summer-heat",
+        "guest": "french-couple",
+        "expert_topic": "ppf",
+        "segment": "before-after",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/rust-proofing/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/rust_proofing_4-2.webp",
+      "pub_date": "Mon, 26 Oct 2026 16:19:53 +0000",
+      "duration_sec": 68,
+      "bytes": 1104488
     }
   ]
 }
