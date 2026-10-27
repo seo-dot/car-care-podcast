@@ -25,7 +25,8 @@
     "https://car-care.center/services/detailing/car-painting-service/",
     "https://car-care.center/services/detailing/brake-caliper-painting/",
     "https://car-care.center/services/tire-fitting/wheel-alignment/",
-    "https://car-care.center/services/detailing/rust-proofing/"
+    "https://car-care.center/services/detailing/rust-proofing/",
+    "https://car-care.center/services/car-service/pre-purchase-car-inspection/"
   ],
   "episodes": [
     {
@@ -573,6 +574,27 @@
       "pub_date": "Mon, 26 Oct 2026 16:19:53 +0000",
       "duration_sec": 68,
       "bytes": 1104488
+    },
+    {
+      "file": "2026-10-27-pre-purchase-car-inspection-in-dubai.mp3",
+      "video": "2026-10-27-pre-purchase-car-inspection-in-dubai.mp4",
+      "srt": "2026-10-27-pre-purchase-car-inspection-in-dubai.srt",
+      "title": "Pre-Purchase Car Inspection — Fixing wear",
+      "description": "Car Detailing Podcast: a guest's experience with Pre-Purchase Car Inspection at Desert Diamond in Dubai: https://car-care.center/services/car-service/pre-purchase-car-inspection/",
+      "youtube_title": "Review of Pre-Purchase Car Inspection at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/hI6IdOzwgrs",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "russian-expat",
+        "expert_topic": "wash-frequency",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/pre-purchase-car-inspection/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car_pre_purchase_inspection_3-2.webp",
+      "pub_date": "Tue, 27 Oct 2026 13:45:47 +0000",
+      "duration_sec": 76,
+      "bytes": 1226216
     }
   ]
 }
