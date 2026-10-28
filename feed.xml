@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:45:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:22:37 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Car Software Change Deep Dive</title>
+      <link>https://car-care.center/services/car-service/car-software-change/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Software Change at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-software-change/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-10-28-car-software-change-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-10-28-car-software-change-in-dubai.mp3" length="3683048" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 16:22:37 +0000</pubDate>
+      <itunes:duration>03:50</itunes:duration>
+    </item>
     <item>
       <title>Pre-Purchase Car Inspection — Fixing wear</title>
       <link>https://car-care.center/services/car-service/pre-purchase-car-inspection/</link>
