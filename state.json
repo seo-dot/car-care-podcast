@@ -9,7 +9,8 @@
     "https://car-care.center/services/car-service/car-head-gasket-repair/",
     "https://car-care.center/services/car-service/car-transmission-repair/",
     "https://car-care.center/services/car-service/pre-purchase-car-inspection/",
-    "https://car-care.center/services/car-service/car-software-change/"
+    "https://car-care.center/services/car-service/car-software-change/",
+    "https://car-care.center/services/car-service/car-thermostat-change/"
   ],
   "episodes": [
     {
@@ -599,6 +600,27 @@
       "pub_date": "Wed, 28 Oct 2026 16:22:37 +0000",
       "duration_sec": 230,
       "bytes": 3683048
+    },
+    {
+      "file": "2026-10-29-car-thermostat-change-in-dubai.mp3",
+      "video": "2026-10-29-car-thermostat-change-in-dubai.mp4",
+      "srt": "2026-10-29-car-thermostat-change-in-dubai.srt",
+      "title": "Cooling Down: Car Thermostat Change at Desert Diamond Dubai",
+      "description": "Car Detailing Podcast: a guest's experience with Car Thermostat Change at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-thermostat-change/",
+      "youtube_title": "Review of Car Thermostat Change at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/DY1S6XCOG40",
+      "plan": {
+        "story": "daily-driver",
+        "guest": "chinese-couple",
+        "expert_topic": "tint-benefits",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-thermostat-change/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car-thermostat-change-1-1-2.webp",
+      "pub_date": "Thu, 29 Oct 2026 16:32:16 +0000",
+      "duration_sec": 333,
+      "bytes": 5338856
     }
   ]
 }
