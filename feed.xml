@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:15:09 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Car Brake Repair Service — New car protection</title>
+      <link>https://car-care.center/services/car-service/car-brake-repair/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Brake Repair Service at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-brake-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-10-30-car-brake-repair-service-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-10-30-car-brake-repair-service-in-dubai.mp3" length="1209704" type="audio/mpeg"/>
+      <pubDate>Fri, 30 Oct 2026 16:15:09 +0000</pubDate>
+      <itunes:duration>01:15</itunes:duration>
+    </item>
     <item>
       <title>Cooling Down: Car Thermostat Change at Desert Diamond Dubai</title>
       <link>https://car-care.center/services/car-service/car-thermostat-change/</link>
