@@ -14,7 +14,8 @@
     "https://car-care.center/services/car-service/car-brake-repair/",
     "https://car-care.center/services/car-service/car-gearbox-repair/",
     "https://car-care.center/services/car-service/car-windshield-replacement/",
-    "https://car-care.center/services/car-service/timing-belt-replacement/"
+    "https://car-care.center/services/car-service/timing-belt-replacement/",
+    "https://car-care.center/services/car-service/car-battery-service/"
   ],
   "episodes": [
     {
@@ -709,6 +710,27 @@
       "pub_date": "Mon, 02 Nov 2026 19:55:03 +0000",
       "duration_sec": 455,
       "bytes": 7296488
+    },
+    {
+      "file": "2026-11-03-car-battery-replacement-in-dubai.mp3",
+      "video": "2026-11-03-car-battery-replacement-in-dubai.mp4",
+      "srt": "2026-11-03-car-battery-replacement-in-dubai.srt",
+      "title": "Car Battery Replacement — Guest Story from a Saudi Car Enthusiast",
+      "description": "Car Detailing Podcast: a guest's experience with Car Battery Replacement at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-battery-service/",
+      "youtube_title": "Review of Car Battery Replacement at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/of36Cw7Pnbg",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "saudi-local",
+        "expert_topic": "ppf",
+        "segment": "before-after",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/car-service/car-battery-service/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Battery_Replacement_1-2.webp",
+      "pub_date": "Tue, 03 Nov 2026 17:24:51 +0000",
+      "duration_sec": 229,
+      "bytes": 3679976
     }
   ]
 }
