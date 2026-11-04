@@ -15,7 +15,8 @@
     "https://car-care.center/services/car-service/car-gearbox-repair/",
     "https://car-care.center/services/car-service/car-windshield-replacement/",
     "https://car-care.center/services/car-service/timing-belt-replacement/",
-    "https://car-care.center/services/car-service/car-battery-service/"
+    "https://car-care.center/services/car-service/car-battery-service/",
+    "https://car-care.center/services/car-service/car-electrical-repair/"
   ],
   "episodes": [
     {
@@ -731,6 +732,27 @@
       "pub_date": "Tue, 03 Nov 2026 17:24:51 +0000",
       "duration_sec": 229,
       "bytes": 3679976
+    },
+    {
+      "file": "2026-11-04-certified-car-electrical-repair-in-dubai.mp3",
+      "video": "2026-11-04-certified-car-electrical-repair-in-dubai.mp4",
+      "srt": "2026-11-04-certified-car-electrical-repair-in-dubai.srt",
+      "title": "Certified Car Electrical Repair Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Certified Car Electrical Repair at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-electrical-repair/",
+      "youtube_title": "Review of Certified Car Electrical Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/pQVU6GsSi9c",
+      "plan": {
+        "story": "enthusiast",
+        "guest": "american-creator",
+        "expert_topic": "wash-frequency",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-electrical-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car_electrical_repair_5-2.webp",
+      "pub_date": "Wed, 04 Nov 2026 17:46:08 +0000",
+      "duration_sec": 336,
+      "bytes": 5378024
     }
   ]
 }
