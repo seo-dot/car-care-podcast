@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:16:17 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Car Engine Tuning in Dubai - Khalid's Story</title>
+      <link>https://car-care.center/services/car-service/car-engine-tuning/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Engine Tuning at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-engine-tuning/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-11-09-car-engine-tuning-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-11-09-car-engine-tuning-in-dubai.mp3" length="5505512" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2026 20:16:17 +0000</pubDate>
+      <itunes:duration>05:44</itunes:duration>
+    </item>
     <item>
       <title>Car Mechanic Service Experience</title>
       <link>https://car-care.center/services/car-service/car-mechanic/</link>

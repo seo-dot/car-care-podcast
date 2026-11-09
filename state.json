@@ -20,7 +20,8 @@
     "https://car-care.center/services/car-service/car-scanning-diagnostics/",
     "https://car-care.center/services/car-service/car-engine-repair/",
     "https://car-care.center/services/car-service/car-computer-diagnostic/",
-    "https://car-care.center/services/car-service/car-mechanic/"
+    "https://car-care.center/services/car-service/car-mechanic/",
+    "https://car-care.center/services/car-service/car-engine-tuning/"
   ],
   "episodes": [
     {
@@ -841,6 +842,27 @@
       "pub_date": "Sun, 08 Nov 2026 16:22:15 +0000",
       "duration_sec": 173,
       "bytes": 2781800
+    },
+    {
+      "file": "2026-11-09-car-engine-tuning-in-dubai.mp3",
+      "video": "2026-11-09-car-engine-tuning-in-dubai.mp4",
+      "srt": "2026-11-09-car-engine-tuning-in-dubai.srt",
+      "title": "Car Engine Tuning in Dubai - Khalid's Story",
+      "description": "Car Detailing Podcast: a guest's experience with Car Engine Tuning at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-engine-tuning/",
+      "youtube_title": "Review of Car Engine Tuning at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/k-XEu_jFG9I",
+      "plan": {
+        "story": "summer-heat",
+        "guest": "emirati-local",
+        "expert_topic": "sun-heat",
+        "segment": "service-duel",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/car-service/car-engine-tuning/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/Car_Diagnostics_Service_1-3.webp",
+      "pub_date": "Mon, 09 Nov 2026 20:16:17 +0000",
+      "duration_sec": 344,
+      "bytes": 5505512
     }
   ]
 }
