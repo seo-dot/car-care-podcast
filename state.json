@@ -21,7 +21,8 @@
     "https://car-care.center/services/car-service/car-engine-repair/",
     "https://car-care.center/services/car-service/car-computer-diagnostic/",
     "https://car-care.center/services/car-service/car-mechanic/",
-    "https://car-care.center/services/car-service/car-engine-tuning/"
+    "https://car-care.center/services/car-service/car-engine-tuning/",
+    "https://car-care.center/services/tire-fitting/rim-wheel-repair-service/"
   ],
   "episodes": [
     {
@@ -863,6 +864,27 @@
       "pub_date": "Mon, 09 Nov 2026 20:16:17 +0000",
       "duration_sec": 344,
       "bytes": 5505512
+    },
+    {
+      "file": "2026-11-10-car-rim-repair-in-dubai.mp3",
+      "video": "2026-11-10-car-rim-repair-in-dubai.mp4",
+      "srt": "2026-11-10-car-rim-repair-in-dubai.srt",
+      "title": "Curb Rash? Sorted. Car Rim Repair at Desert Diamond",
+      "description": "Car Detailing Podcast: a guest's experience with Car Rim Repair at Desert Diamond in Dubai: https://car-care.center/services/tire-fitting/rim-wheel-repair-service/",
+      "youtube_title": "Review of Car Rim Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/VK-8BI7VgIw",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "uk-solo",
+        "expert_topic": "ceramic-vs-wax",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/tire-fitting/rim-wheel-repair-service/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/rim-wheel-repair-service-1-2.webp",
+      "pub_date": "Tue, 10 Nov 2026 17:23:15 +0000",
+      "duration_sec": 362,
+      "bytes": 5808104
     }
   ]
 }
