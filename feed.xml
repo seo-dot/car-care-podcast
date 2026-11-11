@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:32:00 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Car Painting Service Experience</title>
+      <link>https://car-care.center/services/detailing/car-painting-service/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Painting Service at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-painting-service/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-11-11-car-painting-service-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-11-11-car-painting-service-in-dubai.mp3" length="4033640" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Nov 2026 17:32:00 +0000</pubDate>
+      <itunes:duration>04:12</itunes:duration>
+    </item>
     <item>
       <title>Curb Rash? Sorted. Car Rim Repair at Desert Diamond</title>
       <link>https://car-care.center/services/tire-fitting/rim-wheel-repair-service/</link>
