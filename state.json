@@ -26,7 +26,8 @@
     "https://car-care.center/services/detailing/car-painting-service/",
     "https://car-care.center/services/detailing/brake-caliper-painting/",
     "https://car-care.center/services/tire-fitting/wheel-alignment/",
-    "https://car-care.center/services/detailing/rust-proofing/"
+    "https://car-care.center/services/detailing/rust-proofing/",
+    "https://car-care.center/services/car-service/exhaust-system-installation/"
   ],
   "episodes": [
     {
@@ -973,6 +974,27 @@
       "pub_date": "Sat, 14 Nov 2026 16:09:18 +0000",
       "duration_sec": 267,
       "bytes": 4280936
+    },
+    {
+      "file": "2026-11-15-car-exhaust-system-installation-in-dubai.mp3",
+      "video": "2026-11-15-car-exhaust-system-installation-in-dubai.mp4",
+      "srt": "2026-11-15-car-exhaust-system-installation-in-dubai.srt",
+      "title": "Exhaust System Installation: A French Couple's Dubai Upgrade",
+      "description": "Car Detailing Podcast: a guest's experience with Car Exhaust System Installation at Desert Diamond in Dubai: https://car-care.center/services/car-service/exhaust-system-installation/",
+      "youtube_title": "Review of Car Exhaust System Installation at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/EOoh_0NfAP0",
+      "plan": {
+        "story": "special-occasion",
+        "guest": "french-couple",
+        "expert_topic": "swirl-marks",
+        "segment": "before-after",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/car-service/exhaust-system-installation/",
+      "image": "https://car-care.center/wp-content/uploads/2025/03/exhaust_system_installation_3-2.webp",
+      "pub_date": "Sun, 15 Nov 2026 16:46:11 +0000",
+      "duration_sec": 367,
+      "bytes": 5879144
     }
   ]
 }
