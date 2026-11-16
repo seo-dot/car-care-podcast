@@ -27,7 +27,8 @@
     "https://car-care.center/services/detailing/brake-caliper-painting/",
     "https://car-care.center/services/tire-fitting/wheel-alignment/",
     "https://car-care.center/services/detailing/rust-proofing/",
-    "https://car-care.center/services/car-service/exhaust-system-installation/"
+    "https://car-care.center/services/car-service/exhaust-system-installation/",
+    "https://car-care.center/services/car-service/car-brake-disk-replacement/"
   ],
   "episodes": [
     {
@@ -995,6 +996,27 @@
       "pub_date": "Sun, 15 Nov 2026 16:46:11 +0000",
       "duration_sec": 367,
       "bytes": 5879144
+    },
+    {
+      "file": "2026-11-16-car-brake-disk-replacement-in-dubai.mp3",
+      "video": "2026-11-16-car-brake-disk-replacement-in-dubai.mp4",
+      "srt": "2026-11-16-car-brake-disk-replacement-in-dubai.srt",
+      "title": "Brake Disk Replacement in Dubai Heat",
+      "description": "Car Detailing Podcast: a guest's experience with Car Brake Disk Replacement at Desert Diamond in Dubai: https://car-care.center/services/car-service/car-brake-disk-replacement/",
+      "youtube_title": "Review of Car Brake Disk Replacement at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/tFUw7IWjSOc",
+      "plan": {
+        "story": "summer-heat",
+        "guest": "russian-expat",
+        "expert_topic": "maintain-coating",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/car-service/car-brake-disk-replacement/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car-brake-disk-replacement-service-1-2.webp",
+      "pub_date": "Mon, 16 Nov 2026 19:56:42 +0000",
+      "duration_sec": 341,
+      "bytes": 5467112
     }
   ]
 }
