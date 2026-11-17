@@ -28,7 +28,8 @@
     "https://car-care.center/services/tire-fitting/wheel-alignment/",
     "https://car-care.center/services/detailing/rust-proofing/",
     "https://car-care.center/services/car-service/exhaust-system-installation/",
-    "https://car-care.center/services/car-service/car-brake-disk-replacement/"
+    "https://car-care.center/services/car-service/car-brake-disk-replacement/",
+    "https://car-care.center/services/furniture-upholstery/sofa-upholstery/"
   ],
   "episodes": [
     {
@@ -1017,6 +1018,27 @@
       "pub_date": "Mon, 16 Nov 2026 19:56:42 +0000",
       "duration_sec": 341,
       "bytes": 5467112
+    },
+    {
+      "file": "2026-11-17-sofa-upholstery-in-dubai.mp3",
+      "video": "2026-11-17-sofa-upholstery-in-dubai.mp4",
+      "srt": "2026-11-17-sofa-upholstery-in-dubai.srt",
+      "title": "Sofa Upholstery Stories: From Worn to Wow",
+      "description": "Car Detailing Podcast: a guest's experience with Sofa Upholstery at Desert Diamond in Dubai: https://car-care.center/services/furniture-upholstery/sofa-upholstery/",
+      "youtube_title": "Review of Sofa Upholstery at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/_I2Ln2cEfEc",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "nigerian-solo",
+        "expert_topic": "sun-heat",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/furniture-upholstery/sofa-upholstery/",
+      "image": "https://car-care.center/wp-content/uploads/2025/08/sofa_upholstery_1-1-2.webp",
+      "pub_date": "Tue, 17 Nov 2026 18:54:43 +0000",
+      "duration_sec": 442,
+      "bytes": 7082216
     }
   ]
 }
