@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:54:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:28:20 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Bed Upholstery Deep Dive</title>
+      <link>https://car-care.center/services/furniture-upholstery/bed-upholstery/</link>
+      <description>Car Detailing Podcast: a guest's experience with Bed Upholstery at Desert Diamond in Dubai: https://car-care.center/services/furniture-upholstery/bed-upholstery/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-11-18-bed-upholstery-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-11-18-bed-upholstery-in-dubai.mp3" length="5217511" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Nov 2026 18:28:20 +0000</pubDate>
+      <itunes:duration>05:25</itunes:duration>
+    </item>
     <item>
       <title>Sofa Upholstery Stories: From Worn to Wow</title>
       <link>https://car-care.center/services/furniture-upholstery/sofa-upholstery/</link>

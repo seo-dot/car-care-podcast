@@ -29,7 +29,8 @@
     "https://car-care.center/services/detailing/rust-proofing/",
     "https://car-care.center/services/car-service/exhaust-system-installation/",
     "https://car-care.center/services/car-service/car-brake-disk-replacement/",
-    "https://car-care.center/services/furniture-upholstery/sofa-upholstery/"
+    "https://car-care.center/services/furniture-upholstery/sofa-upholstery/",
+    "https://car-care.center/services/furniture-upholstery/bed-upholstery/"
   ],
   "episodes": [
     {
@@ -1039,6 +1040,27 @@
       "pub_date": "Tue, 17 Nov 2026 18:54:43 +0000",
       "duration_sec": 442,
       "bytes": 7082216
+    },
+    {
+      "file": "2026-11-18-bed-upholstery-in-dubai.mp3",
+      "video": "2026-11-18-bed-upholstery-in-dubai.mp4",
+      "srt": "2026-11-18-bed-upholstery-in-dubai.srt",
+      "title": "Bed Upholstery Deep Dive",
+      "description": "Car Detailing Podcast: a guest's experience with Bed Upholstery at Desert Diamond in Dubai: https://car-care.center/services/furniture-upholstery/bed-upholstery/",
+      "youtube_title": "Review of Bed Upholstery at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/gS4KkzH69jk",
+      "plan": {
+        "story": "enthusiast",
+        "guest": "chinese-couple",
+        "expert_topic": "ceramic-vs-wax",
+        "segment": "care-lifehack",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/furniture-upholstery/bed-upholstery/",
+      "image": "https://car-care.center/wp-content/uploads/2025/08/Bed_Upholstery_2-1-1.webp",
+      "pub_date": "Wed, 18 Nov 2026 18:28:20 +0000",
+      "duration_sec": 325,
+      "bytes": 5217511
     }
   ]
 }
