@@ -30,7 +30,8 @@
     "https://car-care.center/services/car-service/exhaust-system-installation/",
     "https://car-care.center/services/car-service/car-brake-disk-replacement/",
     "https://car-care.center/services/furniture-upholstery/sofa-upholstery/",
-    "https://car-care.center/services/furniture-upholstery/bed-upholstery/"
+    "https://car-care.center/services/furniture-upholstery/bed-upholstery/",
+    "https://car-care.center/services/detailing/car-seat-repair/"
   ],
   "episodes": [
     {
@@ -1061,6 +1062,27 @@
       "pub_date": "Wed, 18 Nov 2026 18:28:20 +0000",
       "duration_sec": 325,
       "bytes": 5217511
+    },
+    {
+      "file": "2026-11-19-car-seat-repair-in-dubai.mp3",
+      "video": "2026-11-19-car-seat-repair-in-dubai.mp4",
+      "srt": "2026-11-19-car-seat-repair-in-dubai.srt",
+      "title": "Car Seat Repair Experience at Desert Diamond Dubai",
+      "description": "Car Detailing Podcast: a guest's experience with Car Seat Repair at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-seat-repair/",
+      "youtube_title": "Review of Car Seat Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/eL2j51fjPhU",
+      "plan": {
+        "story": "daily-driver",
+        "guest": "emirati-local",
+        "expert_topic": "ppf",
+        "segment": "before-after",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/car-seat-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/car_seat_repair_4-2.webp",
+      "pub_date": "Thu, 19 Nov 2026 18:44:03 +0000",
+      "duration_sec": 253,
+      "bytes": 4058215
     }
   ]
 }
