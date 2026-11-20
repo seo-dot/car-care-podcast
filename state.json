@@ -31,7 +31,8 @@
     "https://car-care.center/services/car-service/car-brake-disk-replacement/",
     "https://car-care.center/services/furniture-upholstery/sofa-upholstery/",
     "https://car-care.center/services/furniture-upholstery/bed-upholstery/",
-    "https://car-care.center/services/detailing/car-seat-repair/"
+    "https://car-care.center/services/detailing/car-seat-repair/",
+    "https://car-care.center/services/detailing/car-rim-painting/"
   ],
   "episodes": [
     {
@@ -1083,6 +1084,27 @@
       "pub_date": "Thu, 19 Nov 2026 18:44:03 +0000",
       "duration_sec": 253,
       "bytes": 4058215
+    },
+    {
+      "file": "2026-11-20-car-rim-painting-in-dubai.mp3",
+      "video": "2026-11-20-car-rim-painting-in-dubai.mp4",
+      "srt": "2026-11-20-car-rim-painting-in-dubai.srt",
+      "title": "Fresh Wheels: Car Rim Painting Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Car Rim Painting at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-rim-painting/",
+      "youtube_title": "Review of Car Rim Painting at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/uwiEoumbfF4",
+      "plan": {
+        "story": "new-car",
+        "guest": "uk-solo",
+        "expert_topic": "wash-frequency",
+        "segment": "myth-busting",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/car-rim-painting/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/rim_painting_1-3.webp",
+      "pub_date": "Fri, 20 Nov 2026 18:06:23 +0000",
+      "duration_sec": 338,
+      "bytes": 5411047
     }
   ]
 }

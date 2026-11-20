@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:06:23 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Fresh Wheels: Car Rim Painting Experience</title>
+      <link>https://car-care.center/services/detailing/car-rim-painting/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Rim Painting at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-rim-painting/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-11-20-car-rim-painting-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-11-20-car-rim-painting-in-dubai.mp3" length="5411047" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Nov 2026 18:06:23 +0000</pubDate>
+      <itunes:duration>05:38</itunes:duration>
+    </item>
     <item>
       <title>Car Seat Repair Experience at Desert Diamond Dubai</title>
       <link>https://car-care.center/services/detailing/car-seat-repair/</link>
