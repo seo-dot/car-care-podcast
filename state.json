@@ -32,7 +32,8 @@
     "https://car-care.center/services/furniture-upholstery/sofa-upholstery/",
     "https://car-care.center/services/furniture-upholstery/bed-upholstery/",
     "https://car-care.center/services/detailing/car-seat-repair/",
-    "https://car-care.center/services/detailing/car-rim-painting/"
+    "https://car-care.center/services/detailing/car-rim-painting/",
+    "https://car-care.center/services/detailing/car-modification/"
   ],
   "episodes": [
     {
@@ -1105,6 +1106,27 @@
       "pub_date": "Fri, 20 Nov 2026 18:06:23 +0000",
       "duration_sec": 338,
       "bytes": 5411047
+    },
+    {
+      "file": "2026-11-21-car-modification-shop-in-dubai.mp3",
+      "video": "2026-11-21-car-modification-shop-in-dubai.mp4",
+      "srt": "2026-11-21-car-modification-shop-in-dubai.srt",
+      "title": "Car Modification Shop — German Couple Preps for Sale",
+      "description": "Car Detailing Podcast: a guest's experience with Car Modification Shop at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-modification/",
+      "youtube_title": "Review of Car Modification Shop at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/lBIZ5w5PJGI",
+      "plan": {
+        "story": "before-sale",
+        "guest": "german-couple",
+        "expert_topic": "interior-care",
+        "segment": "service-duel",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/detailing/car-modification/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/Car_Modification_8-2.webp",
+      "pub_date": "Sat, 21 Nov 2026 17:05:12 +0000",
+      "duration_sec": 481,
+      "bytes": 7706215
     }
   ]
 }
