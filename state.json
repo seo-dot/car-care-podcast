@@ -33,7 +33,8 @@
     "https://car-care.center/services/furniture-upholstery/bed-upholstery/",
     "https://car-care.center/services/detailing/car-seat-repair/",
     "https://car-care.center/services/detailing/car-rim-painting/",
-    "https://car-care.center/services/detailing/car-modification/"
+    "https://car-care.center/services/detailing/car-modification/",
+    "https://car-care.center/services/detailing/leather-car-seat-scratch-repair/"
   ],
   "episodes": [
     {
@@ -1127,6 +1128,27 @@
       "pub_date": "Sat, 21 Nov 2026 17:05:12 +0000",
       "duration_sec": 481,
       "bytes": 7706215
+    },
+    {
+      "file": "2026-11-22-leather-car-seat-scratch-repair-in-dubai.mp3",
+      "video": "2026-11-22-leather-car-seat-scratch-repair-in-dubai.mp4",
+      "srt": "2026-11-22-leather-car-seat-scratch-repair-in-dubai.srt",
+      "title": "Leather Seat Scratch Repair Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Leather Car Seat Scratch Repair at Desert Diamond in Dubai: https://car-care.center/services/detailing/leather-car-seat-scratch-repair/",
+      "youtube_title": "Review of Leather Car Seat Scratch Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/AbmRMw71A2M",
+      "plan": {
+        "story": "special-occasion",
+        "guest": "indian-pro",
+        "expert_topic": "tint-benefits",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/leather-car-seat-scratch-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/leather_car_seat_scratch_repair_3-2.webp",
+      "pub_date": "Sun, 22 Nov 2026 17:39:32 +0000",
+      "duration_sec": 442,
+      "bytes": 7076455
     }
   ]
 }
