@@ -35,7 +35,8 @@
     "https://car-care.center/services/detailing/car-rim-painting/",
     "https://car-care.center/services/detailing/car-modification/",
     "https://car-care.center/services/detailing/leather-car-seat-scratch-repair/",
-    "https://car-care.center/services/detailing/car-leather-steering-wheel-repair/"
+    "https://car-care.center/services/detailing/car-leather-steering-wheel-repair/",
+    "https://car-care.center/services/detailing/car-roof-upholstery/"
   ],
   "episodes": [
     {
@@ -1171,6 +1172,27 @@
       "pub_date": "Mon, 23 Nov 2026 21:44:42 +0000",
       "duration_sec": 248,
       "bytes": 3985255
+    },
+    {
+      "file": "2026-11-24-car-roof-upholstery-in-dubai.mp3",
+      "video": "2026-11-24-car-roof-upholstery-in-dubai.mp4",
+      "srt": "2026-11-24-car-roof-upholstery-in-dubai.srt",
+      "title": "Car Roof Upholstery Experience",
+      "description": "Car Detailing Podcast: a guest's experience with Car Roof Upholstery at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-roof-upholstery/",
+      "youtube_title": "Review of Car Roof Upholstery at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/nOGtoqShtwY",
+      "plan": {
+        "story": "fix-damage",
+        "guest": "american-creator",
+        "expert_topic": "maintain-coating",
+        "segment": "myth-busting",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/detailing/car-roof-upholstery/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/car_roof_upholstery_5-2.webp",
+      "pub_date": "Tue, 24 Nov 2026 01:21:18 +0000",
+      "duration_sec": 398,
+      "bytes": 6382951
     }
   ]
 }
