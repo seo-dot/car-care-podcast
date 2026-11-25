@@ -36,7 +36,8 @@
     "https://car-care.center/services/detailing/car-modification/",
     "https://car-care.center/services/detailing/leather-car-seat-scratch-repair/",
     "https://car-care.center/services/detailing/car-leather-steering-wheel-repair/",
-    "https://car-care.center/services/detailing/car-roof-upholstery/"
+    "https://car-care.center/services/detailing/car-roof-upholstery/",
+    "https://car-care.center/services/detailing/seat-upholstery/"
   ],
   "episodes": [
     {
@@ -1193,6 +1194,27 @@
       "pub_date": "Tue, 24 Nov 2026 01:21:18 +0000",
       "duration_sec": 398,
       "bytes": 6382951
+    },
+    {
+      "file": "2026-11-25-car-seat-upholstery-in-dubai.mp3",
+      "video": "2026-11-25-car-seat-upholstery-in-dubai.mp4",
+      "srt": "2026-11-25-car-seat-upholstery-in-dubai.srt",
+      "title": "Car Seat Upholstery — A French Couple's Picky Test",
+      "description": "Car Detailing Podcast: a guest's experience with Car Seat Upholstery at Desert Diamond in Dubai: https://car-care.center/services/detailing/seat-upholstery/",
+      "youtube_title": "Review of Car Seat Upholstery at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/yNVY-TsSYOA",
+      "plan": {
+        "story": "enthusiast",
+        "guest": "french-couple",
+        "expert_topic": "sun-heat",
+        "segment": "service-duel",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/seat-upholstery/",
+      "image": "https://car-care.center/wp-content/uploads/2025/05/seat_upholstery_3-2.webp",
+      "pub_date": "Wed, 25 Nov 2026 19:42:13 +0000",
+      "duration_sec": 414,
+      "bytes": 6637543
     }
   ]
 }
