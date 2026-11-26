@@ -37,7 +37,8 @@
     "https://car-care.center/services/detailing/leather-car-seat-scratch-repair/",
     "https://car-care.center/services/detailing/car-leather-steering-wheel-repair/",
     "https://car-care.center/services/detailing/car-roof-upholstery/",
-    "https://car-care.center/services/detailing/seat-upholstery/"
+    "https://car-care.center/services/detailing/seat-upholstery/",
+    "https://car-care.center/services/detailing/car-door-leather-repair/"
   ],
   "episodes": [
     {
@@ -1215,6 +1216,27 @@
       "pub_date": "Wed, 25 Nov 2026 19:42:13 +0000",
       "duration_sec": 414,
       "bytes": 6637543
+    },
+    {
+      "file": "2026-11-26-car-door-leather-repair-in-dubai.mp3",
+      "video": "2026-11-26-car-door-leather-repair-in-dubai.mp4",
+      "srt": "2026-11-26-car-door-leather-repair-in-dubai.srt",
+      "title": "Car Door Leather Repair: Restoring Daily Driver Leather",
+      "description": "Car Detailing Podcast: a guest's experience with Car Door Leather Repair at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-door-leather-repair/",
+      "youtube_title": "Review of Car Door Leather Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/4Rx-2P9EXQY",
+      "plan": {
+        "story": "daily-driver",
+        "guest": "russian-expat",
+        "expert_topic": "ceramic-vs-wax",
+        "segment": "care-lifehack",
+        "giveaway": false
+      },
+      "source_url": "https://car-care.center/services/detailing/car-door-leather-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2025/06/car_door_leather_repair_4-3.webp",
+      "pub_date": "Thu, 26 Nov 2026 19:24:14 +0000",
+      "duration_sec": 239,
+      "bytes": 3832039
     }
   ]
 }

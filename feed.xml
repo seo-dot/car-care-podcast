@@ -13,7 +13,7 @@
       <link>https://seo-dot.github.io/car-care-podcast/feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:24:14 +0000</lastBuildDate>
     <itunes:author>Desert Diamond</itunes:author>
     <itunes:category text="Leisure"/>
     <itunes:image href="https://seo-dot.github.io/car-care-podcast/assets/cover.jpg"/>
@@ -23,6 +23,15 @@
       <itunes:email>seo@mbear.ae</itunes:email>
     </itunes:owner>
     <itunes:summary>Car Detailing Podcast — real customer experiences with premium car detailing at Desert Diamond in Dubai and Abu Dhabi: ceramic coating, PPF, wrapping, tinting, polishing and more. Book at https://car-care.center</itunes:summary>
+    <item>
+      <title>Car Door Leather Repair: Restoring Daily Driver Leather</title>
+      <link>https://car-care.center/services/detailing/car-door-leather-repair/</link>
+      <description>Car Detailing Podcast: a guest's experience with Car Door Leather Repair at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-door-leather-repair/</description>
+      <guid isPermaLink="false">https://seo-dot.github.io/car-care-podcast/episodes/2026-11-26-car-door-leather-repair-in-dubai.mp3</guid>
+      <enclosure url="https://seo-dot.github.io/car-care-podcast/episodes/2026-11-26-car-door-leather-repair-in-dubai.mp3" length="3832039" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Nov 2026 19:24:14 +0000</pubDate>
+      <itunes:duration>03:59</itunes:duration>
+    </item>
     <item>
       <title>Car Seat Upholstery — A French Couple's Picky Test</title>
       <link>https://car-care.center/services/detailing/seat-upholstery/</link>
