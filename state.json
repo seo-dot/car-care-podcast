@@ -38,7 +38,8 @@
     "https://car-care.center/services/detailing/car-leather-steering-wheel-repair/",
     "https://car-care.center/services/detailing/car-roof-upholstery/",
     "https://car-care.center/services/detailing/seat-upholstery/",
-    "https://car-care.center/services/detailing/car-door-leather-repair/"
+    "https://car-care.center/services/detailing/car-door-leather-repair/",
+    "https://car-care.center/services/detailing/car-leather-repair/"
   ],
   "episodes": [
     {
@@ -1237,6 +1238,27 @@
       "pub_date": "Thu, 26 Nov 2026 19:24:14 +0000",
       "duration_sec": 239,
       "bytes": 3832039
+    },
+    {
+      "file": "2026-11-27-leather-car-repair-in-dubai.mp3",
+      "video": "2026-11-27-leather-car-repair-in-dubai.mp4",
+      "srt": "2026-11-27-leather-car-repair-in-dubai.srt",
+      "title": "Leather Car Repair Experience at Desert Diamond",
+      "description": "Car Detailing Podcast: a guest's experience with Leather Car Repair at Desert Diamond in Dubai: https://car-care.center/services/detailing/car-leather-repair/",
+      "youtube_title": "Review of Leather Car Repair at Desert Diamond Dubai",
+      "youtube_url": "https://youtu.be/Qi-fJVtZ4YU",
+      "plan": {
+        "story": "new-car",
+        "guest": "nigerian-solo",
+        "expert_topic": "ppf",
+        "segment": "before-after",
+        "giveaway": true
+      },
+      "source_url": "https://car-care.center/services/detailing/car-leather-repair/",
+      "image": "https://car-care.center/wp-content/uploads/2023/07/car-leather-repair-1.webp",
+      "pub_date": "Fri, 27 Nov 2026 19:14:27 +0000",
+      "duration_sec": 172,
+      "bytes": 2764135
     }
   ]
 }
